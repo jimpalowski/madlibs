@@ -5,3 +5,16 @@
 .name {
   font-weight: bold;
 }
+
+#shouting{
+  display: none;
+}
+
+.texthere{
+  font-size: 100px;
+}
+
+
+.textshout p{
+
+}
